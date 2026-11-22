@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" viewBox="50 20 412 510" width="412" height="510" version="1.1">
+<g id="head" inkscape:label="Glava" inkscape:groupmode="layer">
+<g id="left-half" inkscape:label="Leva polovina" inkscape:groupmode="layer">
+  <path id="left-head-base" inkscape:label="head-base" d="M 256,160 L 210,145 L 160,35 L 112,225 L 78,292 L 106,304 L 76,338 L 110,348 L 98,392 L 156,382 L 196,408 L 204,458 L 256,470 Z" fill="#ffffff" stroke="none"/>
+  <path id="left-cheek-fur" inkscape:label="cheek-fur" d="M 112,225 L 78,292 L 106,304 L 76,338 L 110,348 L 98,392 L 156,382 L 190,325 L 160,265 Z" fill="#cfe6ff" stroke="none"/>
+  <path id="left-forehead" inkscape:label="forehead" d="M 256,150 L 212,142 L 205,240 L 256,285 Z" fill="#e8f3ff" stroke="none"/>
+  <path id="left-muzzle" inkscape:label="muzzle" d="M 256,285 L 200,300 L 196,408 L 204,458 L 256,470 Z" fill="#eef6ff" stroke="none"/>
+  <path id="left-ear-inner" inkscape:label="ear-inner" d="M 158,85 L 192,148 L 135,205 Z" fill="#2d5fa8" stroke="none"/>
+  <path id="left-eye" inkscape:label="eye" d="M 165,262 L 232,280 L 214,300 L 172,288 Z" fill="#0a1020" stroke="none"/>
+  <path id="left-eye-glint" inkscape:label="eye-glint" d="M 200,276 L 226,282 L 214,294 Z" fill="#7fd0ff" stroke="none"/>
+  <path id="left-mouth-line" inkscape:label="mouth-line" d="M 256,442 L 204,458" fill="none" stroke="#0a1020" stroke-width="7" stroke-linecap="round"/>
+  <path id="left-fang" inkscape:label="fang" d="M 208,454 L 242,446 Q 238,482 226,508 Q 212,482 208,454 Z" fill="#ffffff" stroke="none"/>
+</g>
+<g id="right-half" inkscape:label="Desna polovina (senka)" inkscape:groupmode="layer">
+  <path id="right-head-base" inkscape:label="head-base" d="M 256,160 L 302,145 L 352,35 L 400,225 L 434,292 L 406,304 L 436,338 L 402,348 L 414,392 L 356,382 L 316,408 L 308,458 L 256,470 Z" fill="#c7d1eb" stroke="none"/>
+  <path id="right-cheek-fur" inkscape:label="cheek-fur" d="M 400,225 L 434,292 L 406,304 L 436,338 L 402,348 L 414,392 L 356,382 L 322,325 L 352,265 Z" fill="#a1bdeb" stroke="none"/>
+  <path id="right-forehead" inkscape:label="forehead" d="M 256,150 L 300,142 L 307,240 L 256,285 Z" fill="#b5c7eb" stroke="none"/>
+  <path id="right-muzzle" inkscape:label="muzzle" d="M 256,285 L 312,300 L 316,408 L 308,458 L 256,470 Z" fill="#bacaeb" stroke="none"/>
+  <path id="right-ear-inner" inkscape:label="ear-inner" d="M 354,85 L 320,148 L 377,205 Z" fill="#234e9b" stroke="none"/>
+  <path id="right-eye" inkscape:label="eye" d="M 347,262 L 280,280 L 298,300 L 340,288 Z" fill="#080d1d" stroke="none"/>
+  <path id="right-eye-glint" inkscape:label="eye-glint" d="M 312,276 L 286,282 L 298,294 Z" fill="#63abeb" stroke="none"/>
+  <path id="right-mouth-line" inkscape:label="mouth-line" d="M 256,442 L 308,458" fill="none" stroke="#080d1d" stroke-width="7" stroke-linecap="round"/>
+  <path id="right-fang" inkscape:label="fang" d="M 304,454 L 270,446 Q 274,482 286,508 Q 300,482 304,454 Z" fill="#c7d1eb" stroke="none"/>
+</g>
+<g id="nose-group" inkscape:label="Nos" inkscape:groupmode="layer">
+  <path id="nose" inkscape:label="nos" d="M 230,404 L 282,404 L 256,432 Z" fill="#0a1020" stroke="none"/>
+  <path id="philtrum" inkscape:label="linija ispod nosa" d="M 256,432 L 256,444" fill="none" stroke="#0a1020" stroke-width="6" stroke-linecap="round"/>
+</g>
+</g>
+</svg>

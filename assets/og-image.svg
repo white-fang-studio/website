@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="1200" height="630" viewBox="0 0 1200 630"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#14306f"/><stop offset=".55" stop-color="#0b1738"/><stop offset="1" stop-color="#060b1a"/></linearGradient></defs>
+<path id="bg" d="M 0,0 H 1200 V 630 H 0 Z" fill="url(#g)"/>
+<g id="" inkscape:label="Glava" inkscape:groupmode="layer">
+<g id="" inkscape:label="Leva polovina" inkscape:groupmode="layer">
+  <path id="" inkscape:label="head-base" d="M 260,215.8 L 216.3,201.5 L 168.8,97 L 123.2,277.5 L 90.9,341.1 L 117.5,352.6 L 89,384.8 L 121.3,394.3 L 109.9,436.1 L 165,426.6 L 203,451.3 L 210.6,498.8 L 260,510.2 Z" fill="#ffffff" stroke="none"/>
+  <path id="" inkscape:label="cheek-fur" d="M 123.2,277.5 L 90.9,341.1 L 117.5,352.6 L 89,384.8 L 121.3,394.3 L 109.9,436.1 L 165,426.6 L 197.3,372.5 L 168.8,315.5 Z" fill="#cfe6ff" stroke="none"/>
+  <path id="" inkscape:label="forehead" d="M 260,206.2 L 218.2,198.7 L 211.6,291.8 L 260,334.5 Z" fill="#e8f3ff" stroke="none"/>
+  <path id="" inkscape:label="muzzle" d="M 260,334.5 L 206.8,348.8 L 203,451.3 L 210.6,498.8 L 260,510.2 Z" fill="#eef6ff" stroke="none"/>
+  <path id="" inkscape:label="ear-inner" d="M 166.9,144.5 L 199.2,204.3 L 145.1,258.5 Z" fill="#2d5fa8" stroke="none"/>
+  <path id="" inkscape:label="eye" d="M 173.6,312.6 L 237.2,329.8 L 220.1,348.8 L 180.2,337.3 Z" fill="#0a1020" stroke="none"/>
+  <path id="" inkscape:label="eye-glint" d="M 206.8,325.9 L 231.5,331.6 L 220.1,343.1 Z" fill="#7fd0ff" stroke="none"/>
+  <path id="" inkscape:label="mouth-line" d="M 260,483.6 L 210.6,498.8" fill="none" stroke="#0a1020" stroke-width="6.6" stroke-linecap="round"/>
+  <path id="" inkscape:label="fang" d="M 214.4,495 L 246.7,487.4 Q 242.9,521.6 231.5,546.3 Q 218.2,521.6 214.4,495 Z" fill="#ffffff" stroke="none"/>
+</g>
+<g id="" inkscape:label="Desna polovina (senka)" inkscape:groupmode="layer">
+  <path id="" inkscape:label="head-base" d="M 260,215.8 L 303.7,201.5 L 351.2,97 L 396.8,277.5 L 429.1,341.1 L 402.5,352.6 L 431,384.8 L 398.7,394.3 L 410.1,436.1 L 355,426.6 L 317,451.3 L 309.4,498.8 L 260,510.2 Z" fill="#c7d1eb" stroke="none"/>
+  <path id="" inkscape:label="cheek-fur" d="M 396.8,277.5 L 429.1,341.1 L 402.5,352.6 L 431,384.8 L 398.7,394.3 L 410.1,436.1 L 355,426.6 L 322.7,372.5 L 351.2,315.5 Z" fill="#a1bdeb" stroke="none"/>
+  <path id="" inkscape:label="forehead" d="M 260,206.2 L 301.8,198.7 L 308.4,291.8 L 260,334.5 Z" fill="#b5c7eb" stroke="none"/>
+  <path id="" inkscape:label="muzzle" d="M 260,334.5 L 313.2,348.8 L 317,451.3 L 309.4,498.8 L 260,510.2 Z" fill="#bacaeb" stroke="none"/>
+  <path id="" inkscape:label="ear-inner" d="M 353.1,144.5 L 320.8,204.3 L 374.9,258.5 Z" fill="#234e9b" stroke="none"/>
+  <path id="" inkscape:label="eye" d="M 346.4,312.6 L 282.8,329.8 L 299.9,348.8 L 339.8,337.3 Z" fill="#080d1d" stroke="none"/>
+  <path id="" inkscape:label="eye-glint" d="M 313.2,325.9 L 288.5,331.6 L 299.9,343.1 Z" fill="#63abeb" stroke="none"/>
+  <path id="" inkscape:label="mouth-line" d="M 260,483.6 L 309.4,498.8" fill="none" stroke="#080d1d" stroke-width="6.6" stroke-linecap="round"/>
+  <path id="" inkscape:label="fang" d="M 305.6,495 L 273.3,487.4 Q 277.1,521.6 288.5,546.3 Q 301.8,521.6 305.6,495 Z" fill="#c7d1eb" stroke="none"/>
+</g>
+<g id="" inkscape:label="Nos" inkscape:groupmode="layer">
+  <path id="" inkscape:label="nos" d="M 235.3,447.5 L 284.7,447.5 L 260,474.1 Z" fill="#0a1020" stroke="none"/>
+  <path id="" inkscape:label="linija ispod nosa" d="M 260,474.1 L 260,485.5" fill="none" stroke="#0a1020" stroke-width="5.7" stroke-linecap="round"/>
+</g>
+</g>
+
+<text x="480" y="305" font-family="Impact, 'Arial Black', sans-serif" font-size="124" letter-spacing="4" fill="#ffffff">WHITE FANG</text>
+<text x="486" y="375" font-family="'Arial Black', Arial, sans-serif" font-size="42" letter-spacing="26" fill="#7fd0ff">STUDIO</text>
+<text x="486" y="450" font-family="Arial, sans-serif" font-size="32" fill="#a9c4ea">Indie games with bite</text></svg>
